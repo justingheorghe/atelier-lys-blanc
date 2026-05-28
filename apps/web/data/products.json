@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Rochie Eleganta Black Swan",
+    "slug": "black-swan",
+    "style": "Gala",
+    "price": 350,
+    "sizes": ["XS", "S", "M", "L"],
+    "stock": 7,
+    "featured": true,
+    "color": "Negru satin",
+    "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1200&q=85",
+    "description": "Silueta rafinata cu croi fluid, potrivita pentru receptii, baluri si seri elegante."
+  },
+  {
+    "id": 2,
+    "name": "Rochie Lys Blanc Royal",
+    "slug": "lys-blanc-royal",
+    "style": "Eveniment",
+    "price": 420,
+    "sizes": ["S", "M", "L"],
+    "stock": 5,
+    "featured": true,
+    "color": "Alb perlat",
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1200&q=85",
+    "description": "Model luminos cu textura premium si detalii discrete, creat pentru aparitii memorabile."
+  },
+  {
+    "id": 3,
+    "name": "Rochie Velvet Rose",
+    "slug": "velvet-rose",
+    "style": "Cocktail",
+    "price": 295,
+    "sizes": ["XS", "S", "M"],
+    "stock": 9,
+    "featured": false,
+    "color": "Roz pudrat",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=85",
+    "description": "Rochie scurta de cocktail, eleganta si usor de purtat la evenimente de seara."
+  },
+  {
+    "id": 4,
+    "name": "Rochie Emerald Nocturne",
+    "slug": "emerald-nocturne",
+    "style": "Gala",
+    "price": 510,
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 4,
+    "featured": true,
+    "color": "Verde smarald",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1200&q=85",
+    "description": "Croi lung cu prezenta dramatica, ideal pentru nunti, dineuri si seri formale."
+  },
+  {
+    "id": 5,
+    "name": "Rochie Champagne Muse",
+    "slug": "champagne-muse",
+    "style": "Mireasa civila",
+    "price": 460,
+    "sizes": ["XS", "S", "M", "L"],
+    "stock": 6,
+    "featured": false,
+    "color": "Champagne",
+    "image": "https://images.unsplash.com/photo-1502716119720-b23a93e5fe1b?auto=format&fit=crop&w=1200&q=85",
+    "description": "O alegere delicata pentru cununia civila sau pentru petreceri elegante de zi."
+  },
+  {
+    "id": 6,
+    "name": "Rochie Midnight Atelier",
+    "slug": "midnight-atelier",
+    "style": "Eveniment",
+    "price": 390,
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 8,
+    "featured": false,
+    "color": "Bleumarin",
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=85",
+    "description": "Model modern cu linie curata, gandit pentru confort si tinuta impecabila."
+  }
+]
